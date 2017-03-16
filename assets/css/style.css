@@ -1,12 +1,15 @@
 
-html, body{
+#page{
     height: 100%;
     margin: 0;
 }
 
+#purplepollen {
+    font-size: 80px;
+}
 
-header {
-    background-image: url(http://wallpapersite.com/images/pages/pic_h/5810.jpg);
+#landing {
+    background-image: url(http://atmedia.imgix.net/b16e3a95324826a16eaeb71ba4b70029163760ee?auto=compress&w=1200.0&h=800.0&fit=crop);
     background-size: cover;
     height: 100vh;
     display: flex;
@@ -19,7 +22,7 @@ header {
     margin-bottom: 50px;
 }
 
-p {
+#user-input {
     max-width: 600px;
     margin: 0 auto 20px;
 }
